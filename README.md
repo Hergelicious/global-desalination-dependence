@@ -4,7 +4,7 @@ Code and derived data for the article of the same title (Hassan, submitted to *D
 The scripts assemble an open country-level dataset for 194 states (150 coastal) and reproduce every
 number, table and supplementary table in the article.
 
-**Archived version:** Zenodo DOI to be added on release.
+**Archived version:** Zenodo: https://zenodo.org/records/24012047.
 **Contact:** Ahmed Hassona Hassan, CEITEC, Masaryk University, Brno (ahmed.hassan@ceitec.muni.cz)
 
 ## Contents
