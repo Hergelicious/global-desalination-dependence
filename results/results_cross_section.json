@@ -1,0 +1,389 @@
+{
+ "n_states": 194,
+ "n_coastal": 150,
+ "n_desaliners": 75,
+ "n_with_series": 96,
+ "share_bounds_over5": [
+  [
+   "UAE",
+   48.3,
+   93.6,
+   false
+  ],
+  [
+   "Antigua and Barbuda",
+   61.7,
+   100.0,
+   true
+  ],
+  [
+   "Bahrain",
+   60.9,
+   100.0,
+   true
+  ],
+  [
+   "Barbados",
+   13.6,
+   15.7,
+   false
+  ],
+  [
+   "Cape Verde",
+   34.4,
+   52.5,
+   false
+  ],
+  [
+   "Cyprus",
+   19.2,
+   23.8,
+   false
+  ],
+  [
+   "Algeria",
+   5.7,
+   6.1,
+   false
+  ],
+  [
+   "St. Kitts and Nevis",
+   21.3,
+   27.0,
+   false
+  ],
+  [
+   "Kuwait",
+   35.3,
+   54.6,
+   false
+  ],
+  [
+   "Maldives",
+   76.5,
+   100.0,
+   true
+  ],
+  [
+   "Malta",
+   39.2,
+   64.4,
+   false
+  ],
+  [
+   "Namibia",
+   11.0,
+   12.4,
+   false
+  ],
+  [
+   "Oman",
+   16.8,
+   20.2,
+   false
+  ],
+  [
+   "Qatar",
+   72.8,
+   100.0,
+   true
+  ],
+  [
+   "Saudi Arabia",
+   8.4,
+   9.1,
+   false
+  ],
+  [
+   "Seychelles",
+   8.1,
+   8.9,
+   false
+  ],
+  [
+   "Trinidad and Tobago",
+   12.3,
+   14.0,
+   false
+  ],
+  [
+   "St. Vincent and the Grenadines",
+   7.1,
+   7.6,
+   false
+  ]
+ ],
+ "share_bounds_median_gap_over5": 5.161387669998405,
+ "share_bounds_max_gap_over5_not_exact": 45.25462771941141,
+ "bounds_exact": [
+  "Antigua and Barbuda",
+  "Bahrain",
+  "Maldives",
+  "Qatar"
+ ],
+ "n_over10_lower_upper": [
+  14,
+  14
+ ],
+ "desal_vs_municipal_top12": [
+  [
+   "UAE",
+   100.0,
+   48.3
+  ],
+  [
+   "Bahrain",
+   100.0,
+   60.9
+  ],
+  [
+   "Antigua and Barbuda",
+   100.0,
+   61.7
+  ],
+  [
+   "Oman",
+   100.0,
+   16.8
+  ],
+  [
+   "Qatar",
+   100.0,
+   72.8
+  ],
+  [
+   "Maldives",
+   100.0,
+   76.5
+  ],
+  [
+   "Malta",
+   100.0,
+   39.2
+  ],
+  [
+   "Kuwait",
+   100.0,
+   35.3
+  ],
+  [
+   "Cape Verde",
+   89.1,
+   34.4
+  ],
+  [
+   "Saudi Arabia",
+   70.0,
+   8.4
+  ],
+  [
+   "Barbados",
+   63.6,
+   13.6
+  ],
+  [
+   "Cyprus",
+   61.3,
+   19.2
+  ]
+ ],
+ "n_desal_exceeds_half_municipal": 13,
+ "reporting_years_median": {
+  "desal_year": 2022.0,
+  "desal_last_update_year": 2015.0,
+  "eg_elc_fosl_zs_year": 2024.0,
+  "ny_gnp_pcap_pp_kd_year": 2025.0,
+  "er_h2o_fwst_zs_year": 2022.0,
+  "oilgas_rents_pct_year": 2021.0
+ },
+ "desal_last_update_desaliners_median_p10_p90": [
+  2010.0,
+  1990.0,
+  2022.0
+ ],
+ "twopart_logit": {
+  "Intercept": [
+   -7.8776,
+   0.0005
+  ],
+  "log_gni": [
+   0.6321,
+   0.0029
+  ],
+  "aq_bws_score": [
+   0.5794,
+   0.0001
+  ],
+  "fossil_elec_pct": [
+   0.0125,
+   0.0754
+  ],
+  "oilgas_rents_pct": [
+   0.0045,
+   0.8552
+  ]
+ },
+ "twopart_logit_n": 134,
+ "twopart_positive": {
+  "Intercept": [
+   -8.5459,
+   -12.084,
+   -5.0079,
+   0.0
+  ],
+  "log_gni": [
+   0.7831,
+   0.4492,
+   1.1169,
+   0.0
+  ],
+  "aq_bws_score": [
+   0.1944,
+   -0.0307,
+   0.4196,
+   0.0906
+  ],
+  "fossil_elec_pct": [
+   0.023,
+   0.0091,
+   0.0369,
+   0.0012
+  ],
+  "oilgas_rents_pct": [
+   0.0121,
+   -0.0183,
+   0.0426,
+   0.4352
+  ]
+ },
+ "twopart_positive_n": 65,
+ "pathway_medians": [
+  [
+   "Hydrocarbon economy",
+   20,
+   0.03,
+   0.13,
+   94.69,
+   2.75,
+   0.6
+  ],
+  [
+   "Other coastal",
+   91,
+   0.0,
+   0.0,
+   47.64,
+   1.2,
+   0.48
+  ],
+  [
+   "Small island state",
+   33,
+   0.0,
+   0.0,
+   92.67,
+   0.53,
+   0.36
+  ]
+ ],
+ "pathway_kruskal_desal_pc": [
+  4.371428874313056,
+  0.11239740408071787
+ ],
+ "pathway_model": {
+  "model": "pathways",
+  "n": 134,
+  "R2": 0.469,
+  "is_sids[T.True]": [
+   0.6587,
+   0.053,
+   1.2644,
+   0.033
+  ],
+  "hydrocarbon[T.True]": [
+   0.6023,
+   -0.028,
+   1.2325,
+   0.0611
+  ],
+  "log_gni": [
+   0.3638,
+   0.1966,
+   0.531,
+   0.0
+  ],
+  "aq_bws_score": [
+   0.3183,
+   0.1839,
+   0.4526,
+   0.0
+  ],
+  "fossil_elec_pct": [
+   0.0074,
+   0.0013,
+   0.0135,
+   0.018
+  ]
+ },
+ "top9_pathways": [
+  [
+   "Maldives",
+   "Small island state",
+   76.5
+  ],
+  [
+   "Qatar",
+   "Hydrocarbon economy",
+   72.8
+  ],
+  [
+   "Antigua and Barbuda",
+   "Small island state",
+   61.7
+  ],
+  [
+   "Bahrain",
+   "Hydrocarbon economy",
+   60.9
+  ],
+  [
+   "UAE",
+   "Hydrocarbon economy",
+   48.3
+  ],
+  [
+   "Malta",
+   "Other coastal",
+   39.2
+  ],
+  [
+   "Kuwait",
+   "Hydrocarbon economy",
+   35.3
+  ],
+  [
+   "Cape Verde",
+   "Small island state",
+   34.4
+  ],
+  [
+   "St. Kitts and Nevis",
+   "Small island state",
+   21.3
+  ]
+ ],
+ "loo_r2_modelD": 0.3772716910870423,
+ "wastewater": {
+  "coef": 1.504,
+  "ci": [
+   -2.883,
+   5.892
+  ],
+  "p": 0.502,
+  "n": 102
+ },
+ "wastewater_exMalta": [
+  2.94,
+  0.095
+ ]
+}

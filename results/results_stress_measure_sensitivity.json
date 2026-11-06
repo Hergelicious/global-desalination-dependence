@@ -1,0 +1,25 @@
+{
+ "n_coastal_without_official_score": 19,
+ "without_official_score": [
+  "Antigua and Barbuda",
+  "Bahamas",
+  "Barbados",
+  "Comoros",
+  "Dominica",
+  "Fiji",
+  "Grenada",
+  "St. Kitts and Nevis",
+  "St. Lucia",
+  "Malta",
+  "Nauru",
+  "Palestine",
+  "Singapore",
+  "Solomon Islands",
+  "Sao Tome and Principe",
+  "Seychelles",
+  "Trinidad and Tobago",
+  "St. Vincent and the Grenadines",
+  "Vanuatu"
+ ],
+ "spearman_area_vs_official": 0.9340678446396984
+}

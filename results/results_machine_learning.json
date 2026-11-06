@@ -1,0 +1,19 @@
+{
+ "mena_baseline_rmse_training_mean": 2.6667282622820645,
+ "mena_baseline_rmse_zero": 2.966536782175059,
+ "n_mena": 18,
+ "clf_auc_B + water stress": 0.774,
+ "clf_auc_C + electricity mix": 0.784,
+ "clf_auc_D + rents, aridity, geography": 0.779,
+ "ml_n": [
+  134,
+  77
+ ],
+ "interaction": [
+  0.0024020159435814738,
+  -0.0024750626902028646,
+  0.007279094577365812,
+  0.33439244300694493,
+  134
+ ]
+}

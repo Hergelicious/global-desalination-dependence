@@ -1,0 +1,151 @@
+name,iso3,pathway,LEI,aq_bws_score,fossil_elec_pct,renew_elec_pct,share,desal_m3_pc
+Kuwait,KWT,Hydrocarbon economy,99.9,5.0,99.8,0.27,35.3,86.37
+Bahrain,BHR,Hydrocarbon economy,99.84,5.0,99.68,0.04,60.93,151.15
+Saudi Arabia,SAU,Hydrocarbon economy,99.12,4.99,98.49,0.07,8.37,57.8
+Qatar,QAT,Hydrocarbon economy,98.23,5.0,96.47,0.28,72.79,224.98
+Libya,LBY,Hydrocarbon economy,98.11,4.81,99.98,0.02,1.21,9.39
+Oman,OMN,Hydrocarbon economy,97.88,5.0,95.76,1.92,16.8,60.06
+Seychelles,SYC,Small island state,97.74,5.0,95.49,4.51,8.14,8.15
+Nauru,NRU,Small island state,95.09,5.0,90.18,9.82,0.0,0.0
+Algeria,DZA,Hydrocarbon economy,93.97,4.43,99.25,0.91,5.74,13.22
+Malta,MLT,Other coastal,92.29,5.0,84.58,11.89,39.17,40.73
+Yemen,YEM,Other coastal,91.85,4.89,85.93,10.25,0.7,0.6
+Egypt,EGY,Other coastal,90.43,4.7,86.9,12.2,0.26,1.69
+Iran,IRN,Hydrocarbon economy,90.24,4.34,93.62,4.24,0.21,2.16
+Tunisia,TUN,Other coastal,89.1,4.19,94.34,2.82,1.1,3.48
+Cyprus,CYP,Other coastal,88.14,5.0,76.28,15.13,19.2,38.66
+Mauritania,MRT,Other coastal,86.66,4.63,80.64,19.36,0.15,0.38
+Iraq,IRQ,Hydrocarbon economy,85.86,3.7,97.79,3.78,0.0,0.01
+Jordan,JOR,Other coastal,85.64,4.67,77.93,24.92,0.07,0.06
+UAE,ARE,Hydrocarbon economy,84.7,4.97,70.06,4.2,48.35,184.14
+Eritrea,ERI,Other coastal,83.08,3.81,90.04,5.03,0.0,0.0
+South Africa,ZAF,Other coastal,82.73,3.96,86.22,6.45,0.36,1.19
+Syria,SYR,Other coastal,82.21,4.19,80.66,3.39,0.0,0.0
+Lebanon,LBN,Other coastal,79.98,5.0,59.97,5.09,2.54,8.09
+Palestine,PSE,Other coastal,75.87,3.81,75.54,24.46,2.79,1.77
+Somalia,SOM,Other coastal,75.15,3.08,88.79,11.21,0.0,0.01
+India,IND,Other coastal,73.45,3.55,75.84,19.13,0.0,0.0
+Bangladesh,BGD,Other coastal,72.43,2.36,97.69,1.51,0.0,0.0
+Thailand,THA,Other coastal,70.62,2.94,82.47,19.93,0.0,0.0
+Mexico,MEX,Other coastal,69.53,3.19,75.37,23.38,0.02,0.13
+Greece,GRC,Other coastal,69.02,4.29,52.2,40.56,0.1,0.96
+Timor-Leste,TLS,Hydrocarbon economy,67.85,1.8,99.63,0.37,0.0,0.0
+Morocco,MAR,Other coastal,66.62,3.1,71.21,19.32,0.07,0.18
+Senegal,SEN,Other coastal,65.21,2.3,84.41,13.29,0.0,0.0
+Cuba,CUB,Small island state,62.42,1.43,96.27,4.77,0.01,0.04
+Trinidad and Tobago,TTO,Small island state,60.71,1.08,99.91,0.07,12.27,34.36
+Italy,ITA,Other coastal,60.33,3.53,50.07,40.97,0.06,0.34
+Grenada,GRD,Small island state,59.77,1.08,98.03,1.97,0.0,0.0
+Pakistan,PAK,Other coastal,59.76,3.19,55.67,28.28,0.0,0.0
+St. Lucia,LCA,Small island state,59.48,1.08,97.46,2.54,0.0,0.0
+Dominican Republic,DOM,Small island state,58.02,1.6,83.95,17.06,0.0,0.0
+Australia,AUS,Other coastal,57.73,2.65,62.49,26.66,2.35,10.14
+Turkey,TUR,Other coastal,57.49,2.92,56.64,35.42,0.04,0.3
+Barbados,BRB,Small island state,57.09,1.08,92.67,7.33,13.58,38.92
+Djibouti,DJI,Other coastal,56.59,2.43,64.65,35.35,0.52,0.08
+China,CHN,Other coastal,56.32,2.55,61.64,28.43,2.2,9.11
+Haiti,HTI,Small island state,55.94,1.56,80.61,20.54,0.0,0.0
+Belgium,BEL,Other coastal,54.69,4.23,24.73,23.54,0.0,0.0
+St. Vincent and the Grenadines,VCT,Small island state,53.25,1.08,84.98,15.02,7.06,6.0
+St. Kitts and Nevis,KNA,Small island state,53.06,0.53,95.47,4.53,21.29,70.33
+South Korea,KOR,Other coastal,52.9,2.35,58.71,6.65,0.0,0.0
+Antigua and Barbuda,ATG,Small island state,52.5,0.53,94.34,5.66,61.74,75.36
+Philippines,PHL,Other coastal,50.91,1.2,77.77,22.64,0.0,0.0
+Gambia,GMB,Other coastal,50.16,0.1,98.4,1.6,0.0,0.0
+Comoros,COM,Small island state,50.0,0.0,100.0,0.0,0.0,0.0
+Brunei,BRN,Hydrocarbon economy,49.95,0.0,99.9,0.02,0.0,0.0
+Poland,POL,Other coastal,49.95,1.62,67.43,17.46,0.07,0.19
+Bahamas,BHS,Small island state,49.76,0.0,99.52,0.48,0.0,18.36
+USA,USA,Other coastal,49.66,2.09,57.56,20.27,0.13,1.7
+Guinea-Bissau,GNB,Small island state,48.55,0.21,92.91,7.09,0.0,0.0
+Spain,ESP,Other coastal,47.63,3.54,24.42,47.01,1.43,8.51
+Indonesia,IDN,Other coastal,47.6,0.51,85.09,15.46,0.01,0.07
+Guyana,GUY,Hydrocarbon economy,47.46,0.1,92.89,7.11,0.0,0.0
+Singapore,SGP,Small island state,47.16,0.0,94.31,4.02,3.48,1.18
+Argentina,ARG,Other coastal,47.15,1.95,55.25,25.54,0.0,0.02
+Namibia,NAM,Other coastal,47.03,4.61,1.85,93.37,11.03,4.13
+Sao Tome and Principe,STP,Small island state,46.97,0.0,93.94,6.06,0.0,0.0
+Sri Lanka,LKA,Other coastal,46.91,2.36,46.57,49.24,0.0,0.0
+Solomon Islands,SLB,Small island state,46.72,0.0,93.44,6.56,0.0,0.0
+Japan,JPN,Other coastal,46.38,1.63,60.18,21.1,0.05,0.32
+Benin,BEN,Other coastal,46.31,0.0,92.6,0.26,0.0,0.0
+Dominica,DMA,Small island state,45.18,0.53,79.71,20.29,0.0,0.0
+Jamaica,JAM,Small island state,44.63,0.0,89.27,12.75,0.04,0.18
+Nigeria,NGA,Other coastal,43.18,0.67,72.87,21.98,0.02,0.01
+Chile,CHL,Other coastal,42.73,2.68,31.8,48.08,0.18,3.27
+Sudan,SDN,Other coastal,42.16,3.42,15.88,61.12,0.0,0.0
+Vietnam,VNM,Other coastal,41.64,1.41,55.12,41.19,0.0,0.0
+Malaysia,MYS,Other coastal,41.26,0.13,79.93,17.0,0.06,0.12
+Germany,DEU,Other coastal,41.04,2.06,40.9,39.83,0.0,0.0
+Togo,TGO,Other coastal,40.25,0.01,80.36,25.3,0.0,0.0
+Portugal,PRT,Other coastal,38.84,3.0,17.7,64.91,0.02,0.11
+"Congo, Rep.",COG,Hydrocarbon economy,38.09,0.38,68.53,31.71,0.0,0.0
+Cambodia,KHM,Other coastal,37.53,0.99,55.34,56.37,0.0,0.0
+Vanuatu,VUT,Small island state,37.42,0.0,74.85,25.15,0.0,0.0
+Netherlands,NLD,Other coastal,37.12,1.38,46.62,33.13,0.0,0.0
+Madagascar,MDG,Other coastal,36.97,0.76,58.73,34.08,0.0,0.0
+Cote d'Ivoire,CIV,Other coastal,36.85,0.0,73.69,22.8,0.0,0.0
+Russia,RUS,Hydrocarbon economy,36.43,0.43,64.29,19.15,0.0,0.0
+Equatorial Guinea,GNQ,Hydrocarbon economy,35.2,0.0,70.4,8.82,0.0,0.0
+North Korea,PRK,Other coastal,34.55,1.55,38.06,63.08,0.0,0.0
+Myanmar,MMR,Other coastal,34.26,0.88,50.93,50.84,0.0,0.0
+Bosnia and Herzegovina,BIH,Other coastal,34.15,0.34,61.56,39.34,0.0,0.0
+Estonia,EST,Other coastal,32.78,1.12,43.17,39.96,0.0,0.0
+El Salvador,SLV,Other coastal,32.02,1.65,31.08,95.56,0.0,0.0
+Ghana,GHA,Other coastal,30.73,0.04,60.58,34.87,1.09,0.46
+Papua New Guinea,PNG,Hydrocarbon economy,30.02,0.0,60.04,39.96,0.0,0.0
+Tanzania,TZA,Other coastal,29.92,0.33,53.22,37.2,0.0,0.0
+Albania,ALB,Other coastal,29.92,2.99,0.0,98.61,0.0,0.0
+Peru,PER,Other coastal,29.64,0.96,39.99,61.78,0.02,0.16
+Bulgaria,BGR,Other coastal,28.92,1.44,29.03,22.19,0.0,0.0
+Romania,ROU,Other coastal,28.6,1.2,33.16,44.86,0.0,0.0
+Suriname,SUR,Small island state,27.98,0.18,52.41,41.93,0.0,0.0
+Gabon,GAB,Hydrocarbon economy,27.79,0.0,55.58,32.96,0.0,0.0
+Ukraine,UKR,Other coastal,27.61,1.28,29.69,11.99,0.0,0.0
+Ireland,IRL,Other coastal,26.56,0.18,49.49,37.15,0.0,0.0
+Guatemala,GTM,Other coastal,25.59,0.38,43.58,60.61,0.0,0.0
+Lithuania,LTU,Other coastal,25.32,1.71,16.39,65.61,0.0,0.0
+Angola,AGO,Hydrocarbon economy,25.26,1.36,23.35,91.16,0.01,0.0
+Honduras,HND,Other coastal,25.03,0.12,47.64,64.94,0.01,0.02
+Montenegro,MNE,Other coastal,24.09,0.4,40.26,61.78,0.0,0.0
+UK,GBR,Other coastal,23.81,0.77,32.23,40.2,0.39,0.48
+Liberia,LBR,Other coastal,21.29,0.0,42.58,57.42,0.0,0.0
+Ecuador,ECU,Other coastal,20.28,0.43,31.99,80.95,0.02,0.12
+France,FRA,Other coastal,20.2,1.81,4.22,22.81,0.05,0.17
+Fiji,FJI,Small island state,19.97,0.0,39.93,60.07,0.0,0.0
+Nicaragua,NIC,Other coastal,18.51,0.05,36.09,69.51,0.04,0.07
+Georgia,GEO,Other coastal,17.83,0.8,19.76,81.37,0.0,0.0
+Latvia,LVA,Other coastal,17.6,0.48,25.55,63.6,0.0,0.0
+Panama,PAN,Other coastal,14.96,0.1,27.86,68.97,0.0,0.0
+Slovenia,SVN,Other coastal,14.88,0.5,19.78,36.11,0.0,0.0
+Croatia,HRV,Other coastal,14.19,0.09,26.5,69.88,0.0,0.0
+Canada,CAN,Other coastal,14.07,0.32,21.71,67.02,0.01,0.06
+Kenya,KEN,Other coastal,13.76,0.94,8.79,78.08,0.0,0.0
+Sierra Leone,SLE,Other coastal,12.36,0.0,24.72,75.28,0.0,0.0
+Mozambique,MOZ,Other coastal,11.81,0.38,16.11,82.71,0.0,0.0
+Colombia,COL,Other coastal,11.79,0.08,22.07,76.2,0.01,0.02
+Denmark,DNK,Other coastal,10.24,0.75,5.41,78.96,0.0,0.0
+Uruguay,URY,Other coastal,9.67,0.92,0.93,84.35,0.0,0.0
+Ethiopia,ETH,Other coastal,9.64,0.96,0.01,95.27,0.0,0.0
+Venezuela,VEN,Hydrocarbon economy,8.12,0.33,9.64,81.72,0.02,0.18
+Brazil,BRA,Other coastal,8.03,0.25,11.06,77.38,0.06,0.19
+Guinea,GIN,Other coastal,7.31,0.14,11.87,88.13,0.0,0.0
+Cameroon,CMR,Other coastal,6.83,0.02,13.23,65.81,0.0,0.0
+New Zealand,NZL,Other coastal,6.11,0.01,11.99,81.48,0.0,0.0
+Finland,FIN,Other coastal,5.41,0.4,2.92,52.93,0.0,0.0
+Belize,BLZ,Small island state,4.06,0.05,7.14,92.86,0.0,0.0
+Costa Rica,CRI,Other coastal,4.0,0.33,1.38,99.37,0.09,0.6
+Sweden,SWE,Other coastal,3.7,0.35,0.46,67.39,0.04,0.09
+Norway,NOR,Hydrocarbon economy,0.57,0.02,0.71,99.1,0.05,0.26
+Iceland,ISL,Other coastal,0.01,0.0,0.02,99.99,0.0,0.0
+Cape Verde,CPV,Small island state,,,81.73,18.27,34.42,178.22
+"Micronesia, Fed. Sts.",FSM,Small island state,,,95.05,4.95,0.0,0.0
+Kiribati,KIR,Small island state,,,83.63,16.37,0.0,0.0
+Monaco,MCO,Other coastal,,,,,0.0,0.0
+Maldives,MDV,Small island state,,,94.18,5.82,76.5,28.89
+Marshall Islands,MHL,Small island state,,,97.57,2.43,0.0,19.29
+Mauritius,MUS,Small island state,,,81.83,21.68,0.0,0.0
+Palau,PLW,Small island state,,,95.4,4.6,0.0,0.0
+Tonga,TON,Small island state,,,85.8,14.2,0.0,0.0
+Tuvalu,TUV,Small island state,,,84.16,15.84,0.0,0.0
+Samoa,WSM,Small island state,,,50.86,49.14,0.0,0.0

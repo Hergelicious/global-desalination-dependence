@@ -1,0 +1,44 @@
+{
+ "dyn_medians_el": {
+  "doublers": [
+   1.98469,
+   21
+  ],
+  "nongrowers": [
+   19.840295000000005,
+   12
+  ]
+ },
+ "dyn_medians_nonhydro": {
+  "doublers": 5.65579,
+  "nongrowers": 20.354445
+ },
+ "dyn_sample_vs_excluded": {
+  "included": [
+   39,
+   32975.50767,
+   0.0251,
+   3.552563177843179
+  ],
+  "excluded_desaliners": [
+   41,
+   19212.29005,
+   0.0031,
+   1.075695259262222
+  ]
+ },
+ "dyn_year_alignment": {
+  "desal_latest_year_median": 2022.0,
+  "renew_elec_latest_year_median": 2021.0
+ },
+ "coastal_only": [
+  -0.45806413452524974,
+  0.0043590609693743305,
+  37
+ ],
+ "coastal_only_start_ge_0.01km3": [
+  -0.27017543859649124,
+  0.26327626992868586,
+  19
+ ]
+}
